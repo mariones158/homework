@@ -1,4 +1,9 @@
 body {
   background-color: #1c2230;
-  
+
+}
+.btn-intro{
+  background-color: #4fc4d5;
+  color: white;
+  border-radius: 3rem;
 }
